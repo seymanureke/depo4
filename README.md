@@ -1,7 +1,5 @@
 # depo4
-Anladım, daha kurumsal ve akademik bir rapor formatında, içinde kod blokları barındırmayan ancak mühendislik detaylarını derinlemesine açıklayan bir README.md hazırlayalım. Bu format, projenin teknik dokümantasyonu gibi görünecek ve hocanın "açıklayıcı olsun" beklentisini profesyonel bir metinle karşılayacaktır.
 
-Aşağıdaki metni kopyalayıp GitHub'daki README dosyana yapıştırabilirsin:
 
 Gömülü Sistemler İçin Dinamik Tensör Yönetimi ve Quantization Projesi
 1. Proje Özeti ve Mühendislik Yaklaşımı
